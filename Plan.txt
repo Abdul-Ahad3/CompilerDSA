@@ -1,0 +1,11 @@
+TITLE: Compiler using DSA concepts
+
+==> PROTOTYPE THE WORKING USING CONSOLE AND THEN TURN TO GUI.
+
+1. Use either an already existing language or make a custom one.
+2. Add each line to the stack.
+3. Add each character in each line to a seperate 2nd stack.
+4. Ignore white spaces.
+5. Read the content of stack by Pop().
+6. Check for incomplete/imbalanced brackets, quotation marks etc. in a seperate 3rd stack.
+7. check for the read content and call respective functions.
