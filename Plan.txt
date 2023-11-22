@@ -8,4 +8,4 @@ TITLE: Compiler using DSA concepts
 4. Ignore white spaces.
 5. Read the content of stack by Pop().
 6. Check for incomplete/imbalanced brackets, quotation marks etc. in a seperate 3rd stack.
-7. check for the read content and call respective functions.
+7. check for the read content and call respective functions
